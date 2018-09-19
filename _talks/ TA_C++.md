@@ -1,10 +1,10 @@
 ---
 title: "Teaching Assistant for C++ Programming"
 collection: talks
-type: "TA"
-permalink: /talks/TA_C++
+type: "Talk"
+permalink: /talks/2012-03-01-talk-1
 venue: "UC San Francisco, Department of Testing"
-date: Fall 2017
+date: 2012-03-01
 location: "USC"
 ---
 

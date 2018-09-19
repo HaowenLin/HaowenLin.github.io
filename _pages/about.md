@@ -14,7 +14,7 @@ Publications
 ======
 <b>Automatic Extraction of Phrase-Level Map Labels from Historical Maps</b>
 
-<sup>[Submitted to ACM SIGSPATIAL 2017 SRC]    [paper](https:HaowenLin.github.io/files/paper1.pdf)</sup>
+<sup>[Submitted to ACM SIGSPATIAL 2017 SRC]&emsp;[\[paper\]](https:HaowenLin.github.io/files/paper1.pdf)</sup>
 
 
 This paper presents an automatic approach that combines single words extracted from historical maps into meaningful phrases, which represent complete location descriptions and can be used to link historical sites to other datasets. Our algorithm first combines textual and spatial features of individual map words to evaluate the potentiality of connecting two words. Then the algorithm trains a support vector machine to adjust the weight of each feature. This algorithm is potential to improve digital map processing by increasing the automation of text extraction on maps.
@@ -22,9 +22,7 @@ This paper presents an automatic approach that combines single words extracted f
 
 <b>An Uncertainty Aware Method for Geographic Data Conflation</b>
 
-<sup>[Submitted to ACM SIGSPATIAL BIGSPATIAL workshop 2018]
-
-[paper](https:HaowenLin.github.io/files/paper2.pdf)</sup>
+<sup>[Submitted to ACM SIGSPATIAL BIGSPATIAL workshop 2018]&emsp;[\[paper\]](https:HaowenLin.github.io/files/paper2.pdf)</sup>
 
 
  This paper provides an end-to-end evaluation method that exploits the distance map to calculate the uncertainty value for centerline extraction. Compared with methods that do not consider uncertainty value, our algorithm avoids using a  xed bu er size to identify corresponding features from multiple sources and generate accurate con ation results.
