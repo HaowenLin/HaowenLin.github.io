@@ -8,12 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Haowen. Currently, I am a undergaduate student at USC with a major in Computer Science and a minor in Business Finance with supervision under Professor Yao-Yi Chiang and Professor .   
+Hi! My name is Haowen. Currently, I am a undergaduate student at USC with a major in Computer Science and a minor in Business Finance with supervision under Professor Yao-Yi Chiang and Professor Satish. My research interests over the last few years have been in data science, specifically in data analysis on geographic datasets and information integration.   
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Publications
+1. Automatic Extraction of Phrase-Level Map Labels from Historical Maps
+[Submitted to ACM SIGSPATIAL 2017 SRC]
 
+This paper presents an automatic approach that combines single words extracted from historical maps into meaningful phrases, which represent complete location descriptions and can be used to link historical sites to other datasets. Our algorithm first combines textual and spatial features of individual map words to evaluate the potentiality of connecting two words. Then the algorithm trains a support vector machine to adjust the weight of each feature. This algorithm is potential to improve digital map processing by increasing the automation of text extraction on maps.
+
+
+
+Research Projects
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 
