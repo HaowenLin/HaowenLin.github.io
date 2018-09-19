@@ -10,6 +10,11 @@ location: "Los Angeles, CA"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-* Taught fundamentals of C++ syntax and semantics including function prototypes, overloading, memory management.
-* Mentored 60+ students in class, held regular office hours and graded weekly lab and exams. 
-* Collaborated with professors to verify correctness and ambiguity.
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
