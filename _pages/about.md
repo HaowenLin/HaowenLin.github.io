@@ -12,17 +12,32 @@ Hi! My name is Haowen. Currently, I am a undergaduate student at USC with a majo
 
 Publications
 ======
-1. Automatic Extraction of Phrase-Level Map Labels from Historical Maps
+Automatic Extraction of Phrase-Level Map Labels from Historical Maps
+<sup>[Submitted to ACM SIGSPATIAL 2017 SRC][paper](https:HaowenLin.github.io/files/paper1.pdf)</sup>
 
-<sub><sup>[Submitted to ACM SIGSPATIAL 2017 SRC]</sup></sub>
 
 This paper presents an automatic approach that combines single words extracted from historical maps into meaningful phrases, which represent complete location descriptions and can be used to link historical sites to other datasets. Our algorithm first combines textual and spatial features of individual map words to evaluate the potentiality of connecting two words. Then the algorithm trains a support vector machine to adjust the weight of each feature. This algorithm is potential to improve digital map processing by increasing the automation of text extraction on maps.
 
 
+An Uncertainty Aware Method for Geographic Data Conflation
+<sup>[Submitted to ACM SIGSPATIAL BIGSPATIAL workshop 2018][paper](https:HaowenLin.github.io/files/paper2.pdf)</sup>
+
+
+ This paper provides an end-to-end evaluation method that exploits the distance map to calculate the uncertainty value for centerline extraction. Compared with methods that do not consider uncertainty value, our algorithm avoids using a  xed bu er size to identify corresponding features from multiple sources and generate accurate con ation results.
 
 Research Projects
 ======
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+
+Row-convexity constraint solver, supervised 
+
+
+Analysis and implementation a randomized algorithm to solve connected row-convexity constraint (CRC) problems in C++ and s generator for random CRC problems. Compared the result with non-dertermisnitic algorithm, randomized algorithm is efficient in time complexity and easy to implement.
+
+
+Facebook chatbot for 211 County and language translation
+<sup>[chatbot](https://www.facebook.com/211lacounty)</sup>
+
+On-going project on improving a Facebook Chatbot for 211 LA County, a non-profit organization which provides information and referrals for all health and human services in LA County. The project automatically converts the phone-call recordings into text by using Kaldi, a speech recognition toolkit written in C++.
 
 
 
