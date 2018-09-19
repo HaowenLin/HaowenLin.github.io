@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Resume"
-    url: http://academicpages.github.io/files/haowenlin.pdf
+    url: http://haowenlin.github.io/files/haowenlin.pdf
 
   - title: "Talks"
     url: /talks/    
@@ -18,5 +18,3 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
