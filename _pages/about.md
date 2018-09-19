@@ -13,7 +13,8 @@ Hi! My name is Haowen. Currently, I am a undergaduate student at USC with a majo
 Publications
 ======
 1. Automatic Extraction of Phrase-Level Map Labels from Historical Maps
-[Submitted to ACM SIGSPATIAL 2017 SRC]
+
+<sub><sup>[Submitted to ACM SIGSPATIAL 2017 SRC]</sup></sub>
 
 This paper presents an automatic approach that combines single words extracted from historical maps into meaningful phrases, which represent complete location descriptions and can be used to link historical sites to other datasets. Our algorithm first combines textual and spatial features of individual map words to evaluate the potentiality of connecting two words. Then the algorithm trains a support vector machine to adjust the weight of each feature. This algorithm is potential to improve digital map processing by increasing the automation of text extraction on maps.
 
