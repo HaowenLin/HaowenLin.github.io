@@ -84,16 +84,16 @@ author:
   bio              : "Undergraduate student, Computer Science, USC"
   location         : "Los Angeles"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            :
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : http://facebook.com/haowen.lin.31
+  facebook         : "http://facebook.com/haowen.lin.31"
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/HaowenLin"
   google_plus      :
   keybase          :
   instagram        :
