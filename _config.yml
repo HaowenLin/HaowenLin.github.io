@@ -85,13 +85,13 @@ author:
   location         : "Los Angeles"
   employer         :
   googlescholar    : 
-  email            :
+  email            : "haowenli@usc.edu"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "http://facebook.com/haowen.lin.31"
+  #facebook         : "http://facebook.com/haowen.lin.31"
   foursquare       :
   github           : "https://github.com/HaowenLin"
   google_plus      :
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  #twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
