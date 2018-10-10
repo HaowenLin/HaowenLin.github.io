@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 <p align="vertical-align:bottom">
-  <img src="https://haowenlin.github.io/images/profile.png" alt="Photo" style="width: 450px;"/> 
-  <font size="1">Haowen Lin</font>
+  <img src="https://haowenlin.github.io/images/profile.png" alt="Photo" style="width: 250px;"/> 
+  <font size="6"><b>Haowen Lin</b></font><br>Computer Science Department </br><br>Viterbi School of Engineering</br><br>University of Southern California</br>
 </p>
 
 Hi! My name is Haowen. Currently, I am a undergaduate student at USC with a major in Computer Science and a minor in Business Finance with supervision under Professor Yao-Yi Chiang and Professor Satish. My research interests over the last few years have been in data science, specifically in data analysis on geographic datasets and information integration.   
