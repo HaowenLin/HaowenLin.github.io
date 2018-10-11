@@ -26,13 +26,15 @@ redirect_from:
     </div>
 </div>
 
+<div>
 <br>
-<br>
-
+<br>	
+</div>
 
 
 Biography
-==========
+=========
+
 
 Hi! My name is Haowen. Currently, I am a undergaduate student at [University of Southern California](https://www.usc.edu/) with a major in [Computer Science](https://www.cs.usc.edu/) and a minor in [Business Finance](https://www.marshall.usc.edu/) with supervision under Professor [Yao-Yi Chiang](https://spatial.usc.edu/team-view/yao-yi-chiang/) and Professor [Satish Kumar Thittamaranahall](https://www.tkskwork.org/). 
 
