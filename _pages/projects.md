@@ -13,7 +13,7 @@ author_profile: true
     </div>
     <div class="right" style="overflow: hidden;">
         <p>
-        <b>Historical Map Text Label Connection</b> [<a href="https://haowenlin.github.io/files/src.pdf" style="color:#ADD8E6">paper</a>, <a href="https://haowenlin.github.io/files/src_poster.pdf" style="color:#ADD8E6">poster</a>,<a href="https://haowenlin.github.io/files/src_slides.pdf" style="color:#ADD8E6">slides</a>]
+        <b>Historical Map Text Label Connection</b> [<a href="https://haowenlin.github.io/files/src.pdf" style="color:#0000EE">paper</a>, <a href="https://haowenlin.github.io/files/src_poster.pdf" style="color:#ADD8E6">poster</a>,<a href="https://haowenlin.github.io/files/src_slides.pdf" style="color:#ADD8E6">slides</a>]
 		<ul>
   			<li>An automatic algorithm that combined single words recognized from historical maps into meaningful phrases, which represent complete location descriptions and can be used to link historical sites to other datasets. This algorithm is potential to improve digital map processing by increasing the automation of text extraction on maps.</li>
   			<li>Characterized map labels by location size and text content using Support Vector Machines. Built the back-end with Python and Postgres.</li>
@@ -31,7 +31,7 @@ author_profile: true
     </div>
     <div class="right" style="overflow: hidden;">
         <p>
-        <b>An Uncertainty Aware Method for Geographic Data Conflation</b> [<a href="https://haowenlin.github.io/files/bigspatial.pdf">paper</a>]
+        <b>An Uncertainty Aware Method for Geographic Data Conflation</b> [<a href="https://haowenlin.github.io/files/bigspatial.pdf" style="color:#0000EE">paper</a>]
 		<ul>
   			<li>Analyzed uncertainty generated in the vector to vector conflation of geospatial sources. </li>
   			<li>Our algorithm is unique in incorporating uncertainty value from a geographical feature recognition model that using Convolutional Neural Network and centerline extraction of linear feature. The uncertainty value is commonly overlooked by current vector data generation and process. Our algorithm proves that the uncertainty value can improve the accuracy and efficiency of the conflation processcation size and text content using Support Vector Machines. Built the back-end with Python and Postgres.</li>
