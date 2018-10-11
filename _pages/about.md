@@ -8,9 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-<p align="vertical-align:bottom">
-  <img src="https://haowenlin.github.io/images/profile.png" alt="Photo" style="width: 250px;"/> 
-</p>
+
+<div class="parent" >
+    <div class="left" style="float: left; width: 250px;margin-right: 50px;">
+        <img src="https://haowenlin.github.io/images/profile.png" alt="Photo" > 
+    </div>
+    <div class="right" style="overflow: hidden;">
+        <p>
+		<font size="6">Haowen Lin.</font>
+		<ul class="unstyled">
+  			<li>Computer Science Department </li>
+  			<li>Viterbi School of Engineering</li>
+  			<li>University of Southern California</li>
+  			<li>Email: haowenli@usc.edu</li>
+		</ul>
+          </p>
+    </div>
+</div>
+
+
 
 Biography
 ==========
