@@ -1,7 +1,7 @@
 ---
 <!-- layout: archive -->
 title: "Awards & Honors"
-permalink: /awards/
+permalink: /work/
 author_profile: true
 ---
 ### Teaching Assistant for Software Engineering

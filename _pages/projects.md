@@ -5,9 +5,13 @@ permalink: /projects/
 author_profile: true
 ---
 
-<img style="float: left;" src="https://haowenlin.github.io/images/profile.png">
-## Historical Map Text Recognition and connection   
+<p align="vertical-align:bottom">
+  <img src="https://haowenlin.github.io/images/profile.png" alt="Photo" style="width: 250px;"/>
+ <div>## Historical Map Text Recognition and connection   
 • An automatic algorithm that combined single words recognized from historical maps into meaningful phrases, which represent complete location descriptions and can be used to link historical sites to other datasets. This algorithm is potential to improve digital map processing by increasing the automation of text extraction on maps.
 • Characterized map labels by location size and text content using Support Vector Machines. Built the back-end with Python and Postgres. 
-• Wrote an evaluation program on Strabo, a semi­automatic system that extracts and recognizes text labels in map images into text and integrated tesseract into Strabo.
+• Wrote an evaluation program on Strabo, a semi­automatic system that extracts and recognizes text labels in map images into text and integrated tesseract into Strabo.</div>> 
+</p>
+
+
 
