@@ -4,10 +4,11 @@ main:
     url: http://haowenlin.github.io/files/haowenlin.pdf
 
   - title: "Work Experience"
-    url: /teaching/    
+    url: /teaching/
+
+  - title: "Research & Projects"
+    url: /projects/    
     
-  - title: "Portfolio"
-    url: /portfolio/
 
   - title: "Awards & Honors"
     url: /awards/
