@@ -7,7 +7,7 @@ author_profile: true
 
 
 ### Teaching Assistant for Software Engineering
-* Undergraduate course, USC, CS Department, 2018*
+* Undergraduate course, USC, CS Department, 2018.
 * Peer-tutored 130+ students about concepts of project management, architecture, design, testing and maintenance phases.
 * Held regular office hours and answered programming questions about JavaScript, PHP, Cucumber/
 * Graded project documents, midterm and final exams.
