@@ -3,11 +3,11 @@ main:
   - title: "Resume"
     url: http://haowenlin.github.io/files/haowenlin.pdf
 
+  - title: "Projects"
+    url: /projects/ 
+
   - title: "Work Experience"
     url: /work/
-
-  - title: "Projects"
-    url: /projects/    
     
   - title: "Awards & Honors"
     url: /award/
