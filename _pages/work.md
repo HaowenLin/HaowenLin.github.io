@@ -18,4 +18,4 @@ author_profile: true
 *Undergraduate course, USC, ITP Department, 2017*
 * Taught fundamentals of C++ syntax and semantics including function prototypes, overloading, memory management.
 * Mentored 60+ students in class, held regular office hours and graded weekly lab and exams.
-* sCollaborated with professors to verify correctness and ambiguity.
+* Collaborated with professors to verify correctness and ambiguity.
