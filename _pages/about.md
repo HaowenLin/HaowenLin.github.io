@@ -20,7 +20,7 @@ redirect_from:
   			<li>Computer Science Department </li>
   			<li>Viterbi School of Engineering</li>
   			<li>University of Southern California</li>
-  			<li>Email: <a href="mailto:someone@yoursite.com">Email Us</a></li>
+  			<li>Email: <a href="mailto:hawenli@usc.edu">haowenli@usc.edu</a></li>
 		</ul>
           </p>
     </div>
