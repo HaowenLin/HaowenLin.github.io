@@ -1,11 +1,9 @@
 ---
-layout: archive
-title: "Work Experience"
-permalink: /teaching/
+<!-- layout: archive -->
+title: "Awards & Honors"
+permalink: /awards/
 author_profile: true
 ---
-
-
 ### Teaching Assistant for Software Engineering
 *Undergraduate course, USC, CSDepartment, 2018*
 
