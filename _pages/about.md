@@ -15,7 +15,7 @@ redirect_from:
     </div>
     <div class="right" style="overflow: hidden;">
         <p>
-		<font size="6">Haowen Lin.</font>
+		<font size="6">Haowen Lin</font>
 		<ul class="unstyled">
   			<li>Computer Science Department </li>
   			<li>Viterbi School of Engineering</li>
@@ -26,7 +26,7 @@ redirect_from:
     </div>
 </div>
 
-
+<br>
 
 Biography
 ==========
