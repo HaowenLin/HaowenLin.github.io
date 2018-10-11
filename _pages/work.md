@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Awards & Honors"
+title: "Working Experience"
 permalink: /work/
 author_profile: true
 ---
