@@ -8,8 +8,7 @@ author_profile: true
 
 
 <div style="float:left;margin:0 10px 10px 0" markdown="1">
-    ![book](https://haowenlin.github.io/images/profile.png)
-
+    <img src="https://haowenlin.github.io/images/profile.png" alt="Photo" style="width: 100px;"/> 
 </div>
 any text
    
