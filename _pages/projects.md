@@ -6,7 +6,12 @@ author_profile: true
 ---
 
 
-| ![Flowers](https://haowenlin.github.io/images/profile.png) | Historical Map Text Recognition and connection |
+
+<div style="float:left;margin:0 10px 10px 0" markdown="1">
+    ![book](https://haowenlin.github.io/images/profile.png)
+
+</div>
+any text
    
 * An automatic algorithm that combined single words recognized from historical maps into meaningful phrases, which represent complete location descriptions and can be used to link historical sites to other datasets. This algorithm is potential to improve digital map processing by increasing the automation of text extraction on maps.
 * Characterized map labels by location size and text content using Support Vector Machines. Built the back-end with Python and Postgres. 
