@@ -1,7 +1,7 @@
 ---
 <!-- layout: archive -->
 title: "Awards & Honors"
-permalink: /awards/
+permalink: /award/
 author_profile: true
 ---
 * First Place of Student Research Competition in ACM SIGSPATIAL. 2017.
